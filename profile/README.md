@@ -18,7 +18,7 @@ cd ARM64-Fedora-KDE-QoL
 
 | Project | What it does |
 |---|---|
-| [**3-Finger-Cube-Gesture**](https://github.com/ARM64-Fedora-KDE-QoL/3-Finger-Cube-Gesture) | 3-finger swipe **up** opens KDE's Desktop Cube, swipe **down** closes it. Rebuilds itself after KWin updates. |
+| [**3-Finger-Cube-Gesture**](https://github.com/ARM64-Fedora-KDE-QoL/3-Finger-Cube-Gesture) | 3-finger swipe **up** opens KDE's Desktop Cube, swipe **down** closes it, and swiping **left/right** in the open cube turns it smoothly with your fingers. Rebuilds itself after KWin and KDE updates. |
 | [**Cube-Backside-Click**](https://github.com/ARM64-Fedora-KDE-QoL/Cube-Backside-Click) | Click the **back** of a desktop inside the open cube to switch to it. No sudo needed. |
 
 Each project can also be installed on its own. All are open source under the GPL-3.0.
